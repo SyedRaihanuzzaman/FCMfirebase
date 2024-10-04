@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904695756911",
+    "project_id": "fcmnotification-859c5",
+    "storage_bucket": "fcmnotification-859c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904695756911:android:fbcc7e85b46ebbfbb6359a",
+        "android_client_info": {
+          "package_name": "com.example.yourname.fcmnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpeG6bRWw6taTSTKCAmPK9L1aBcsEl8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
